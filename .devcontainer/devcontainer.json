@@ -15,19 +15,19 @@
       "extensions": [
         "ms-python.python",
         "ms-python.debugpy",
-        "charliermarsh.ruff",
-        "yzhang.markdown-all-in-one",
-        "ms-toolsai.jupyter",
-        "christian-kohler.path-intellisense",
-        "mechatroner.rainbow-csv",
-        "Gruntfuggly.todo-tree",
-        "redhat.vscode-yaml",
-        "matangover.mypy",
-        "ryanluker.vscode-coverage-gutters",
-        "ClemensPeters.format-json",
-        "saoudrizwan.claude-dev",
-        "ms-azuretools.vscode-docker",
-        "sourcegraph.cody-ai"
+        // "charliermarsh.ruff",
+        // "yzhang.markdown-all-in-one",
+        // "ms-toolsai.jupyter",
+        // "christian-kohler.path-intellisense",
+        // "mechatroner.rainbow-csv",
+        // "Gruntfuggly.todo-tree",
+        // "redhat.vscode-yaml",
+        // "matangover.mypy",
+        // "ryanluker.vscode-coverage-gutters",
+        // "ClemensPeters.format-json",
+        // "saoudrizwan.claude-dev",
+        // "ms-azuretools.vscode-docker",
+        // "sourcegraph.cody-ai"
       ]
     }
   },
