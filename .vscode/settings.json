@@ -1,4 +1,5 @@
 {
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python3.13",
   //////////////
   // mypyの設定
   //////////////
@@ -9,6 +10,14 @@
   // Ruffの設定
   //////////////
   // refs: https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
+  
+  "remote.localPortHost": "allInterfaces",
+  "dev.containers.defaultExtensions": [
+    "github.copilot",
+    "ms-vscode-remote.remote-containers",
+    "ms-azuretools.vscode-docker"
+  ],
+  "dev.containers.extensionAutomationAuthentication": true,
   "[python]": {
     // 保存時にコードを整理
     "editor.formatOnSave": true,
